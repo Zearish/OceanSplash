@@ -1,2 +1,1 @@
-# OceanSplash
-use oceansplash for ur scritps
+![alt](https://raw.githubusercontent.com/Zearish/OceanSplash/refs/heads/main/Splash.png)
