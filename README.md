@@ -2,4 +2,4 @@
 # A Roblox script for The Strongest Battlergounds
 ## Why dont we take the place for Jitless, Forge hub, ETC?
 > [!NOTE]
-> If you are planning on using OceanSplash for your own scripts, you can head here: 
+> If you are planning on using OceanSplash for your own scripts, [you can head here](https://github.com/Zearish/OceanInterface/tree/main)
